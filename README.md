@@ -1,43 +1,45 @@
 # ORX Assessment
+
+
+- live link  - [https://orxa-ssessment.vercel.app/](https://orxa-ssessment.vercel.app/)
+
+
+## Description
+
+---
+
+This is the Assessment, made as part of ORX Front-End hiring process.
+
+This is a simple project, and this was my process: after understanding the requirements and draw layout, I choose the tech necessary: React, ESlint(standart), material UI to accelerate the building process, and styled-components for detailed components.
+
+My file/components structure is loosely based on the atomic design by Brad Frost. My intention was to separate business logic from style components. This simplifies the logic components and improves maintenance and code reusability, is easy to change inner components without affecting the logic, or change the logic without affecting the inner components.
+
+
+
+### Technologies
+-   JavaScript
+-   React
+-   Material UI
+-   styled-components
+-   react-dom
+
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
 
-<!-- #default-branch-switch -->
+Download the example or clone the repo 
 
-```sh
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2 material-ui-master/examples/create-react-app
-cd create-react-app
-```
-
-Install it and run:
+Install:
 
 ```sh
-npm install
-npm start
+yarn
+```
+To run:
+```sh
+yarn start
 ```
 
-or:
+## Authot info
 
-<!-- #default-branch-switch -->
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui/material-ui/tree/master/examples/create-react-app)
-
-<!-- #default-branch-switch -->
-
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/create-react-app)
-
-## The idea behind the example
-
-<!-- #default-branch-switch -->
-
-This example demonstrates how you can use [Create React App](https://github.com/facebookincubator/create-react-app).
-It includes `@mui/material` and its peer dependencies, including `emotion`, the default style engine in MUI v5.
-If you prefer, you can [use styled-components instead](https://mui.com/material-ui/guides/interoperability/#styled-components).
-
-## What's next?
-
-<!-- #default-branch-switch -->
-
-You now have a working example project.
-You can head back to the documentation, continuing browsing it from the [templates](https://mui.com/material-ui/getting-started/templates/) section.
+- Name - [Andre Tavares](https://www.linkedin.com/in/andre--tavares/)
+- Website - [andretavares.dev](https://www.andretavares.dev/)
